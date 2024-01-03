@@ -23,7 +23,7 @@
 <b>Ocupação:</b> Estudante Universitária
 </li>
 <li>
-<b>Interesses:</b> Front-End, Back-End e Full-Stack
+<b>Interesses:</b> Front-End
 </li>
 <br><br><br>
 <div align="center">
