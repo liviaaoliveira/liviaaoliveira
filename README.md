@@ -17,7 +17,7 @@
  <b>Name:</b> Lívia
 </li>
 <li>
-<b>Idade:</b> 20 anos
+<b>Idade:</b> 21 anos
 </li>
 <li>
 <b>Ocupação:</b> Estudante Universitária
