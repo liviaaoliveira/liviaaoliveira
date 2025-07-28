@@ -20,7 +20,7 @@
 <b>Idade:</b> 21 anos
 </li>
 <li>
-<b>Ocupação:</b> Estudante Universitária
+<b>Ocupação:</b> IT Analyst e Front End Dev
 </li>
 <li>
 <b>Interesses:</b> Front-End
